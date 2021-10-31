@@ -1,0 +1,16 @@
+% Find the largest number among three numbers
+Start
+Declare variables a,b and c.
+Read variables a,b and c.
+If a>b
+   If a>c
+      Display a is the largest number.
+   Else
+      Display c is the largest number.
+   Else
+   If b > c
+      Display b is the largest number.
+    Else 
+      Display c is the largest number.
+ Stop.
+ 
