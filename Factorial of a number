@@ -1,0 +1,13 @@
+To find the factorial of a number
+
+Step-1: Start
+Step-2: Declare variables n, factorial and i.
+Step-3: Initialise variables
+        Factorial=1
+        i=1
+Step-4:Read value of n
+Step-5: Repeat the steps until i=n
+        factorial=factorial*i
+        i=i+1
+Step-6:Display factorial
+Step-7:Stop
