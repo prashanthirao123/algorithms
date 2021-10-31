@@ -1,0 +1,8 @@
+% Add two numbers entered by the user
+start
+Declare variables num1,num2 and sum
+Read values num1 and num2.
+Add num1 and num2 and assign the result to sum
+sum=num1+num2
+Display sum
+stop
